@@ -65,9 +65,15 @@ const products = [
           :key="product.title"
           class="overflow-hidden group hover:shadow-lg transition-all duration-300"
         >
-          <!-- Image Placeholder -->
+          <!-- Image -->
           <div class="aspect-[4/3] bg-gradient-to-br from-secondary to-muted border-b border-border flex items-center justify-center relative overflow-hidden">
-            <div class="text-center p-6 space-y-2">
+            <img
+              v-if="product.image"
+              :src="product.image"
+              :alt="product.title"
+              class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            />
+            <div v-else class="text-center p-6 space-y-2">
               <div class="w-16 h-16 mx-auto rounded-full bg-primary/10 flex items-center justify-center">
                 <svg class="w-8 h-8 text-primary/40" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
                   <path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909M3.75 21h16.5A2.25 2.25 0 0 0 22.5 18.75V5.25A2.25 2.25 0 0 0 20.25 3H3.75A2.25 2.25 0 0 0 1.5 5.25v13.5A2.25 2.25 0 0 0 3.75 21Z" />
