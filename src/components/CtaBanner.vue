@@ -30,7 +30,7 @@ import { Phone, ArrowRight } from 'lucide-vue-next'
         <Button
           size="lg"
           variant="outline"
-          class="text-base px-8 h-12 border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground"
+          class="text-base px-8 h-12 border-white/40 bg-white/10 text-white hover:bg-white/20 hover:text-white"
           as-child
         >
           <a href="tel:3496709962">
