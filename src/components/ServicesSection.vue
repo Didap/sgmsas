@@ -13,8 +13,8 @@ const services = [
   },
   {
     icon: Monitor,
-    title: 'Casse Digitali e POS',
-    description: 'Sistemi POS touch screen completi per ristoranti, bar, negozi e attivit\u00e0 commerciali. Soluzioni personalizzate con hardware e software integrati per ogni esigenza.',
+    title: 'Casse Digitali Touch Screen',
+    description: 'Sistemi touch screen completi per ristoranti, bar, negozi e attivit\u00e0 commerciali. Soluzioni personalizzate con hardware e software integrati per ogni esigenza.',
     features: ['POS touch screen', 'Sistemi completi', 'Soluzioni su misura'],
     badge: null,
   },
