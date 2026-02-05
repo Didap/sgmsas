@@ -33,9 +33,9 @@ import { Phone, ArrowRight } from 'lucide-vue-next'
           class="text-base px-8 h-12 border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground"
           as-child
         >
-          <a href="tel:0831587815">
+          <a href="tel:3496709962">
             <Phone class="w-4 h-4 mr-2" />
-            Chiama 0831 587815
+            Chiama 349 6709962
           </a>
         </Button>
       </div>

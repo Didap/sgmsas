@@ -39,7 +39,7 @@ import { ArrowRight, Shield, Clock, Headphones } from 'lucide-vue-next'
               </a>
             </Button>
             <Button size="lg" variant="outline" class="text-base px-8 h-12" as-child>
-              <a href="tel:0831587815">
+              <a href="tel:3496709962">
                 Chiama Ora
               </a>
             </Button>

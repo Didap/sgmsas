@@ -57,9 +57,9 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll))
 
         <!-- Desktop CTA -->
         <div class="hidden md:flex items-center gap-3">
-          <a href="tel:0831587815" class="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+          <a href="tel:3496709962" class="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
             <Phone class="w-4 h-4" />
-            0831 587815
+            349 6709962
           </a>
           <Button as-child>
             <a href="#contatti">Richiedi Preventivo</a>
@@ -98,9 +98,9 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll))
             {{ link.label }}
           </a>
           <div class="pt-3 border-t border-border mt-3 space-y-2">
-            <a href="tel:0831587815" class="flex items-center gap-2 px-4 py-3 text-sm font-medium text-muted-foreground">
+            <a href="tel:3496709962" class="flex items-center gap-2 px-4 py-3 text-sm font-medium text-muted-foreground">
               <Phone class="w-4 h-4" />
-              0831 587815
+              349 6709962
             </a>
             <Button class="w-full" as-child>
               <a href="#contatti" @click="mobileMenuOpen = false">Richiedi Preventivo</a>

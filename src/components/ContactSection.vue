@@ -129,7 +129,7 @@ function handleSubmit() {
                 </div>
                 <div>
                   <h3 class="font-semibold text-foreground mb-1">Telefono</h3>
-                  <a href="tel:0831587815" class="text-accent hover:underline font-medium">0831 587815</a>
+                  <a href="tel:3496709962" class="text-accent hover:underline font-medium">349 6709962</a>
                   <p class="text-sm text-muted-foreground mt-1">Lun - Ven: 9:00 - 13:00, 16:00 - 19:30</p>
                 </div>
               </div>
@@ -146,12 +146,12 @@ function handleSubmit() {
                 <div>
                   <h3 class="font-semibold text-foreground mb-1">WhatsApp</h3>
                   <a
-                    href="https://wa.me/390831587815"
+                    href="https://wa.me/393496709962"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-green-600 hover:underline font-medium"
                   >
-                    0831 587815
+                    349 6709962
                   </a>
                   <p class="text-sm text-muted-foreground mt-1">Scrivici su WhatsApp per una risposta veloce</p>
                 </div>

@@ -57,8 +57,8 @@ import { Phone, Mail, MapPin } from 'lucide-vue-next'
             </li>
             <li class="flex items-center gap-2.5">
               <Phone class="w-4 h-4 flex-shrink-0 text-primary-foreground/40" />
-              <a href="tel:0831587815" class="text-sm text-primary-foreground/60 hover:text-primary-foreground transition-colors">
-                0831 587815
+              <a href="tel:3496709962" class="text-sm text-primary-foreground/60 hover:text-primary-foreground transition-colors">
+                349 6709962
               </a>
             </li>
             <li class="flex items-center gap-2.5">
