@@ -61,18 +61,10 @@ import { ArrowRight, Shield, Clock, Headphones } from 'lucide-vue-next'
           </div>
         </div>
 
-        <!-- Hero Image Placeholder -->
+        <!-- Hero Image -->
         <div class="relative">
-          <div class="aspect-[4/3] rounded-2xl bg-gradient-to-br from-secondary to-muted border border-border overflow-hidden flex items-center justify-center">
-            <div class="text-center p-8 space-y-3">
-              <div class="w-20 h-20 mx-auto rounded-full bg-primary/10 flex items-center justify-center">
-                <svg class="w-10 h-10 text-primary/40" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909M3.75 21h16.5A2.25 2.25 0 0 0 22.5 18.75V5.25A2.25 2.25 0 0 0 20.25 3H3.75A2.25 2.25 0 0 0 1.5 5.25v13.5A2.25 2.25 0 0 0 3.75 21Z" />
-                </svg>
-              </div>
-              <p class="text-sm text-muted-foreground font-medium">Foto negozio / team SGM SAS</p>
-              <p class="text-xs text-muted-foreground/60">Dimensione consigliata: 800x600px</p>
-            </div>
+          <div class="aspect-[4/3] rounded-2xl bg-gradient-to-br from-secondary to-muted border border-border overflow-hidden">
+            <img src="/main1.webp" alt="SGM SAS - Negozio e showroom" class="w-full h-full object-cover" />
           </div>
           <!-- Decorative floating card -->
           <div class="absolute -bottom-4 -left-4 sm:-bottom-6 sm:-left-6 bg-white rounded-xl shadow-lg border border-border p-4 sm:p-5">
