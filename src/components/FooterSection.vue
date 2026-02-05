@@ -78,7 +78,7 @@ import { Phone, Mail, MapPin } from 'lucide-vue-next'
           &copy; {{ new Date().getFullYear() }} SGM SAS di Angelo Pipino &mdash; P.IVA 01512530740 &mdash; Tutti i diritti riservati.
         </p>
         <p class="text-xs text-primary-foreground/40">
-          Via Romagna, 53 &mdash; 72100 Brindisi (BR)
+          Via Romagna, 53 &mdash; 72100 Brindisi (BR) &mdash; Powered by 🐒 <a href="https://didap.it" target="_blank" rel="noopener noreferrer" class="hover:text-primary-foreground transition-colors underline">Didap</a>
         </p>
       </div>
     </div>
